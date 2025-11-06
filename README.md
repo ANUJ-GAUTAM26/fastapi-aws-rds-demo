@@ -102,8 +102,8 @@ Managing configurations cleanly with configparser
 Anuj Gautam
 📍 India
 
-💼 Connect with me on LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/anuj-gautam-bb0b77326/
 
-💻 Explore my projects on GitHub
+💻 GitHub: https://github.com/ANUJ-GAUTAM26
 
 ⭐ If you found this project helpful, please consider giving it a star on GitHub!
